@@ -1,0 +1,11 @@
+@media screen and (min-width: 600px) {
+    .w3-third {
+        display: flex;
+        height: 99.1%;
+    }
+    .nav {
+        display: flex;
+        width: 100%;
+        flex: 1;
+    }
+}
