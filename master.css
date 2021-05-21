@@ -1,7 +1,7 @@
 @media screen and (min-width: 600px) {
     .third {
         display: flex;
-        height: 99.9%;
+        height: 100%;
     }
     .nav {
         display: flex;
